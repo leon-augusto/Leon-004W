@@ -1,4 +1,4 @@
-## Oi, eu sou Leon!
+### Oi, eu sou Leon!
 
 <div align="center">
   <a href="https://github.com/Leon-004W">
@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-004W&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Leon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
